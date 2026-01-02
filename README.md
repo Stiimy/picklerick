@@ -10,7 +10,7 @@ Contrainte :
 - Utilisation d’une machine locale **Arch Linux**
 - Connexion via **OpenVPN**
 
-***N.B : pour des raisons evidente les réponse ne seront pas dans le compte rendu.***
+***N.B : pour des raisons evidente les réponse exacte ne seront pas dans le compte rendu.***
 
 ---
 
